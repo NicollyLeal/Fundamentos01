@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\.NET\Fundamentos01\bin\Debug\net6.0\Fundamentos01.exe
+C:\Users\Dell\Documents\.NET\Fundamentos01\bin\Debug\net6.0\Fundamentos01.deps.json
+C:\Users\Dell\Documents\.NET\Fundamentos01\bin\Debug\net6.0\Fundamentos01.runtimeconfig.json
+C:\Users\Dell\Documents\.NET\Fundamentos01\bin\Debug\net6.0\Fundamentos01.dll
+C:\Users\Dell\Documents\.NET\Fundamentos01\bin\Debug\net6.0\Fundamentos01.pdb
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\Fundamentos01.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\Fundamentos01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\Fundamentos01.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\Fundamentos01.AssemblyInfo.cs
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\Fundamentos01.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\Fundamentos01.dll
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\refint\Fundamentos01.dll
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\Fundamentos01.pdb
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\Fundamentos01.genruntimeconfig.cache
+C:\Users\Dell\Documents\.NET\Fundamentos01\obj\Debug\net6.0\ref\Fundamentos01.dll
